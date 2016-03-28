@@ -1,2 +1,2 @@
 # soossical
-# altyapının oluşturulması
+## altyapının oluşturulması
